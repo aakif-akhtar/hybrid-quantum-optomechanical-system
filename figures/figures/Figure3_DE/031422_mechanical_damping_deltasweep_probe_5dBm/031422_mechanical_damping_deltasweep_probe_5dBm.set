@@ -1,0 +1,56 @@
+Filename: 031422_mechanical_damping_deltasweep_probe_5dBm.dat
+Timestamp: Sun Oct 25 03:14:22 2015
+
+Instrument: Tlog
+	disk_mintime: 60.0
+	idle_mintime: 60.0
+	idle_mode: True
+	plot_enable: True
+	slow_mintime: 60.0
+	status: running
+	timeout: 60.0
+	timeout_mode: True
+Instrument: fsw
+	Average: ON
+	averages: 51
+	bandwidth: 10.0
+	centerfreq: 4268241048.49
+	nop: 10001.0
+	ref_level: -90.0
+	span: 20000.0
+	startfreq: 4268231048.49
+	stopfreq: 4268251048.49
+Instrument: ls370
+	T1: 44.3073
+	T2: 2.82234
+	T5: 0.833843
+	T6: 0.00724488
+	heater_output: 0.0
+	identification: MODEL370
+	still_heater: 1.2
+Instrument: src1
+	frequency: 5464336352.18
+	phase: 0.0
+	power: 5.0
+	status: ON
+Instrument: src2
+	frequency: 4270024149.81
+	phase: 0.0
+	power: 5.0
+	status: ON
+Instrument: src3
+	frequency: 5472742319.17
+	phase: 0.0
+	power: -120.0
+	status: ON
+Instrument: vna
+	Average: ON
+	averages: 1
+	bandwidth: 200.0
+	centerfreq: 4260032500.0
+	nop: 4001
+	power: -20.0
+	span: 2000000.0
+	startfreq: 4259032500.0
+	status: ON
+	stopfreq: 4261032500.0

@@ -1,0 +1,49 @@
+Filename: 134757_vna_Pump power (dBm).dat
+Timestamp: Tue Oct 20 13:47:57 2015
+
+Instrument: fsv
+	Average: ON
+	averages: 200
+	bandwidth: 18.962
+	centerfreq: 8604109566.04
+	nop: 10001.0
+	ref_level: -100.0
+	span: 8000000.0
+	startfreq: 8600109566.04
+	stopfreq: 8608109566.04
+Instrument: fsw
+	Average: ON
+	averages: 501
+	bandwidth: 10.0
+	centerfreq: 4263521150.83
+	nop: 10001.0
+	ref_level: -30.0
+	span: 40000000.0
+	startfreq: 4243521150.83
+	stopfreq: 4283521150.83
+Instrument: src1
+	frequency: 5472359841.0
+	phase: 0.0
+	power: 5.0
+	status: ON
+Instrument: src2
+	frequency: 4268762898.92
+	phase: 0.0
+	power: 10.0
+	status: ON
+Instrument: src3
+	frequency: 6143851545.21
+	phase: 0.0
+	power: -120.0
+	status: ON
+Instrument: vna
+	Average: ON
+	averages: 1
+	bandwidth: 20.0
+	centerfreq: 4263519350.0
+	nop: 1003
+	power: -20.0
+	span: 400000.0
+	startfreq: 4263319350.0
+	status: ON
+	stopfreq: 4263719350.0

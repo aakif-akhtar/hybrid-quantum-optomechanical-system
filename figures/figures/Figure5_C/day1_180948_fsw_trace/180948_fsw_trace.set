@@ -1,0 +1,42 @@
+Filename: 180948_fsw_trace.dat
+Timestamp: Wed Jul 20 18:09:48 2016
+
+Instrument: fsw
+	Average: ON
+	attenuation: 0.0
+	averages: 500
+	bandwidth: 20.0
+	centerfreq: 4124932320.0
+	nop: 10001.0
+	preamp: OFF
+	ref_level: -110.0
+	span: 500000.0
+	startfreq: 4124682320.0
+	stopfreq: 4125182320.0
+Instrument: src1
+	frequency: 4131173000.0
+	phase: 0.0
+	power: 9.2934007551
+	status: ON
+Instrument: src2
+	frequency: 5235362000.0
+	phase: 0.0
+	power: 12.8
+	status: ON
+Instrument: src3
+	frequency: 4124707320.0
+	phase: 0.0
+	power: -80.0
+	status: ON
+Instrument: vna
+	Average: OFF
+	averages: 5
+	bandwidth: 50.0
+	centerfreq: 2124932320.0
+	nop: 5001
+	power: -60.0
+	reference: EXT
+	span: 500000.0
+	startfreq: 2124682320.0
+	status: ON
+	stopfreq: 2125182320.0
